@@ -1,2 +1,3 @@
-# Learning-Machine-
-Make Machine Learning  
+# Learning-Machine
+Make Machine Learning from Data 
+
